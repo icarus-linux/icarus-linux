@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alden Esterhuizen 
 
-<!--
-**icarus-linux/icarus-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I'm Alden Esterhuizen. I graduated Grade 12 in 2025 and I'm now diving into tech, currently learning Python, HTML, and CSS. I love learning new things and enjoy figuring out how stuff works by building small projects as I go. This profile will grow as I take on more.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: aldenesterhuizen1@gmail.com
+- Phone: 072 461 5344
+
+## Find Me
+- YouTube
+- Instagram
